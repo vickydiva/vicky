@@ -1,0 +1,13 @@
+.third-div{
+    margin: 0;
+    background-color: #f35;
+}
+.img-now{
+    max-width: 800px;
+    width: 80%;
+    border-radius: 50px;
+    padding: 10px;
+}
+*{
+    background-color:gray;
+}
